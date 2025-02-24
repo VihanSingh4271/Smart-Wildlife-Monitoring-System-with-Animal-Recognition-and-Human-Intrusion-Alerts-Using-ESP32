@@ -1,0 +1,2 @@
+# Smart-Wildlife-Monitoring-System-with-Animal-Recognition-and-Human-Intrusion-Alerts-Using-ESP32
+This project provides an affordable and scalable solution for wildlife monitoring and human intrusion detection. By leveraging ESP32-CAM for video capture and processing the data on a laptop/desktop, the system ensures high accuracy with minimal hardware costs, contributing significantly to wildlife conservation and forest security
